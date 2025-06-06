@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fadhili5.Fadhili5" />
 
 <h1 align="center">
-  <img src="assets\berserk.gif">
+  <img src="assets\berserk.gif" width=100%>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+,+I+am+Denis+Fadhili;A+Geospatial+Engineer)](https://git.io/typing-svg)
