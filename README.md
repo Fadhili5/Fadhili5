@@ -1,5 +1,8 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fadhili5.Fadhili5" />
 
+<h1 align="center">
+  <img src="C:\Users\HP\Downloads\RRBZ210000 (2).png">
+</h1>
 <!--
 **Fadhili5/Fadhili5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
