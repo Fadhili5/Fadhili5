@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fadhili5.Fadhili5" />
 
 <h1 align="center">
-  <img src="C:\Users\HP\Desktop\Fadhili5\assets\221624.gif">
+  <img src="assets\berserk.gif">
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+,+I+am+Denis+Fadhili;A+Geospatial+Engineer)](https://git.io/typing-svg)
 
 
-## <img src="C:\Users\HP\Desktop\Fadhili5\assets\rocklee.gif" width="50"> A little more about me...
+## <img src="assets\rocklee.gif" width="50"> A little more about me...
 
 - :computer: I'm an explorer and a problem solver with a passion for geospatial technologies and data driven projects.
 - :school: I'm currently learning : PyTorch, Flask
