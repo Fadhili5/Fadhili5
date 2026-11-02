@@ -11,8 +11,8 @@
 
 - :computer: I'm an explorer and a problem solver with a passion for geospatial technologies and data driven projects.
 - 👨‍💼 Currently looking for tech opportunities in the Air Cargo Industry
-- :school: I'm currently learning : PyTorch, Flask
-- :dart: Fun fact : I am an adrenaline junkie (My goal is to summit Everest)
+- :school: I'm currently learning : Java, PyTorch, Flask
+- :dart: Fun fact : I am an adrenaline junkie (Everest is on my bingo list)
 
 <br>
 </br>
